@@ -1,0 +1,31 @@
+* {
+    font-family:Verdana, Tahoma, sans-serif
+}
+
+.title {
+    color:red;
+    font-size: 40px;
+    font-weight: 1000;
+}
+
+#bibimbap_image {
+    height:auto;
+    width:300px;
+}
+
+h2 {
+    background-color:orange;
+    font-weight: 500;
+}
+
+h3 {
+    background-color:grey;
+    color:white;
+    text-align: center;
+}
+
+body ul,
+body ol {
+    font-family: Tahoma, sans-serif;
+    font-size: 13px;
+}
